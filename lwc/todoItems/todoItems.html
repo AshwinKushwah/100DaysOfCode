@@ -1,0 +1,11 @@
+<template>
+
+    <ul>
+    <template for:each={todos} for:item='todo'>
+      <li key={todo} style="padding:10px">
+        <c-todo-item item-name={todo} show-todo></c-todo-item>
+      </li>
+    </template>
+   
+  </ul> 
+</template>

@@ -1,2 +1,10 @@
 # 100DaysOfCode
+
 100DaysOfCode Challenge.
+
+###Day 1 - 01/01/2021
+
+*Started with the basics of **Ligthning Web Components**. 
+*Build Components to Practice the property binding, conditional rendering and iteration. 
+*Understand the modern web stack.
+

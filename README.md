@@ -15,3 +15,9 @@
 * Build components to practice about Component Life Cycle.
 
 
+### Day 3 - 03/01/2021
+
+* Solve Coding Questions to find a pair with maximum product in array and cound number of bits to be flipped to convert A to B
+
+
+
